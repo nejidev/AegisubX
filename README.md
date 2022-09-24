@@ -12,9 +12,9 @@ Support is available on [the forums](http://forum.aegisub.org) or [on IRC](irc:/
 
 Prerequisites:
 
-1. Visual Studio 2015 (the free Community edition is good enough)
-2. The June 2010 DirectX SDK (the final release before DirectSound was dropped)
-3. [Yasm](http://yasm.tortall.net/) installed to somewhere on your path.
+1. Visual Studio 2017 (the free Community edition is good enough)
+2. [Yasm](http://www.tortall.net/projects/yasm/releases/yasm-1.3.0-win64.exe) installed to c:/yasm/yasm.exe somewhere on your path.
+3. cd downloads/ python -m http.server start http localhost server
 
 There are a few optional dependencies:
 
